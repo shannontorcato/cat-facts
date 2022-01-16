@@ -4,7 +4,7 @@ import Card from "./Card";
 class App extends Component {
   render(){
     return(
-      <div className="card_fact">
+      <div className="tc">
         <Card/>
       </div>
     )
